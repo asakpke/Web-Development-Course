@@ -1,0 +1,9 @@
+,Referrer Policy on HTTPS site,Same Origin HTTPS,Same Origin HTTP,Cross Origin HTTPS,Cross Origin HTTP
+1,strict-origin-when-cross-origin,"Host, Path, Query",None,Host,None
+2,no-referrer,None,None,None,None
+3,no-referrer-when-downgrade,"Host, Path, Query",None,"Host, Path, Query",None
+4,origin,Host,Host,Host,Host
+5,origin-when-cross-origin,"Host, Path, Query",Host,Host,Host
+6,same-origin,"Host, Path, Query",None,None,None
+7,strict-origin,Host,None,Host,None
+8,unsafe-url,"Host, Path, Query","Host, Path, Query","Host, Path, Query","Host, Path, Query"

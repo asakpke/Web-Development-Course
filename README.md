@@ -1,7 +1,7 @@
 # Web-Development-Course
 http://esite.pk/product/web-development-course/
 
-Learn Professional Web Development – HTML, Paid Course. You might hear the word ”Freelancing” or earning money online. A common question that pops up in mind, who is eligible? How to learn any of the demanding skills and start earning money?
+Learn Professional Web Development, Paid Course. You might hear the word ”Freelancing” or earning money online. A common question that pops up in mind, who is eligible? How to learn any of the demanding skills and start earning money?
 
 تین ہزار روپے ماہانہ پر آف لائن (شام 4 سے 6) و آن لائن (دن 3 سے 4) پروفیشنل ویب ڈویلپمنٹ کا کورس کریں۔ سنجیدہ خواتین و حضرات، کلاسز کے لیے ابھی کورس خریدیں۔ عامر شہزاد، روشن ٹیک، جی بلاک، اٹک شہر۔
 

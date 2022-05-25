@@ -3,7 +3,7 @@ http://esite.pk/product/web-development-course/
 
 Learn Professional Web Development, Paid Course. You might hear the word ”Freelancing” or earning money online. A common question that pops up in mind, who is eligible? How to learn any of the demanding skills and start earning money?
 
-تین ہزار روپے ماہانہ پر آف لائن (شام 4 سے 6) و آن لائن (دن 3 سے 4) پروفیشنل ویب ڈویلپمنٹ کا کورس کریں۔ سنجیدہ خواتین و حضرات، کلاسز کے لیے ابھی کورس خریدیں۔ عامر شہزاد، روشن ٹیک، جی بلاک، اٹک شہر۔
+تین ہزار روپے ماہانہ پر آن لائن (دن 3 سے 4) و آف لائن (شام 4 سے 6) پروفیشنل ویب ڈویلپمنٹ کا کورس کریں۔ سنجیدہ خواتین و حضرات، کلاسز کے لیے ابھی کورس خریدیں۔ عامر شہزاد، روشن ٹیک، جی بلاک، اٹک شہر۔
 
 کورس میں شامل ہونے کے لیے سگنل ایپ اپنے موبائل و کمپیوٹر پر انسٹال کریں اور سگنل ایپ پر ہمیں 03005393652 پر پیغام بھیجیں و نیچے دیا گیا گروپ جوائن کریں۔ پھر دن تین بجے کے بعد گروپ میں کلاس شروع ہونے کا انتظار کریں۔
 https://signal.group/#CjQKIEduv9mKdbdvr-94GRCpr8VnOnL8793OR45sZSmj4YjrEhAknMWuIZwC5N_GdcIIr6If
@@ -20,8 +20,8 @@ The Web Development course content will contain the latest tips and tools requir
 
 Mark the schedule for online and onsite class sessions.
 
-On-site (office) classes (4-6 PM) Be on-time
 Online classes (3-4 PM) Anyone can join
+On-site (office) classes (4-6 PM) Be on-time
 An additional edge for academy students is that they can have recordings of online lectures as well.
 
 SO Just Do It, choose the desired course, add to your cart. Do not miss the chance of becoming a web developer and designer. Hurry up to avail this golden chance, as the time is running out.

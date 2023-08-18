@@ -1,4 +1,4 @@
-# Web-Development-Course
+# Web Development Course - HTML
 http://esite.pk/product/web-development-course/
 
 Learn Professional Web Development, Paid Course. You might hear the word ”Freelancing” or earning money online. A common question that pops up in mind, who is eligible? How to learn any of the demanding skills and start earning money?
